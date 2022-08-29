@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Krupali
 
-A Computer Science making way into Web Development. 
+A Computer Science student making way into Web Development. 
 
 - 🔭 I’m currently working on various projects that include HTML, CSS and Javascript
 - 🌱 I’m currently learning Javascript
