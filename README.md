@@ -9,3 +9,4 @@ A Computer Science student making way into Web Development.
 - 📫 How to reach me: [Twitter](https://twitter.com/chai_really)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Open Source is for Tech and Non-tech people both!
+- Get in touch to learn more about contributing in the non-code side of opensource!
