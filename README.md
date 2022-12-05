@@ -16,7 +16,3 @@ A Computer Science student making way into Web Development.
 - Get in touch to learn more about contributing in the non-code side of opensource!
 
 -----
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=krupalitrivedi&theme=tokyonight"/></a>
-</p>
