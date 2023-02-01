@@ -19,6 +19,13 @@ A Computer Science student making way into Web Development.
 ## Recent Blog Posts:
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://acodeandaword.hashnode.dev//a-wrap-of-2022-with-chai" title="A Wrap of 2022 with Chai"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675190120650/351880f1-ff34-472e-a8de-5eca283cc746.png" alt="A Wrap of 2022 with Chai" width="250px" align="left" /></a>
+<a href="https://acodeandaword.hashnode.dev//a-wrap-of-2022-with-chai" title="A Wrap of 2022 with Chai"><strong>A Wrap of 2022 with Chai</strong></a>
+<br/> I do be struggling between happiness and intelligence
+
+If you are reading this, you might have seen me somewhere in your Twitter or Hashnode timeline this year and if you were someone who interacted, I am very grateful towards you.
+What 2022 taught m... </p> <br/> <br/>
+<p align="left">
 <a href="https://acodeandaword.hashnode.dev//apis-introduction" title="APIs: The Middleman of Your Next Request"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670864088256/qTdKuos9V.png" alt="APIs: The Middleman of Your Next Request" width="250px" align="left" /></a>
 <a href="https://acodeandaword.hashnode.dev//apis-introduction" title="APIs: The Middleman of Your Next Request"><strong>APIs: The Middleman of Your Next Request</strong></a>
 <br/> The mandatory meme - taken from google.
@@ -26,15 +33,6 @@ A Computer Science student making way into Web Development.
 
 I have been learning a little bit about APIs these days and I must say, I can only understand the analogy of "server-waiter/waitress" after studying for so long. It will take time but we will get there.
 PS: I... </p> <br/> <br/>
-<p align="left">
-<a href="https://acodeandaword.hashnode.dev//lets-talk-about-hacksquad" title="Let's Talk About HackSquad"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664806248995/O-lBgsUAr.png" alt="Let's Talk About HackSquad" width="250px" align="left" /></a>
-<a href="https://acodeandaword.hashnode.dev//lets-talk-about-hacksquad" title="Let's Talk About HackSquad"><strong>Let's Talk About HackSquad</strong></a>
-<br/> Lessgoo with HackSquad!
-
-Somehow, I was able to come up with a light-hearted meme.
-
-What is HackSquad?
-HackSquad is an event promoting OpenSource contributions by letting people make a team and earn points by making PRs in all public libraries. Not o... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
