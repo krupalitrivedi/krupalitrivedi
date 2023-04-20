@@ -1,10 +1,9 @@
-
 name: "📚 Blog Updater"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs Every Day
+    - cron: '0 */24 * * *' # Runs Every 24 Hours
 
 jobs:
   update_blogs:
@@ -20,6 +19,6 @@ jobs:
           USERNAME: 'krupali' # Hashnode Username
           COUNT: 2 # MAX Visisble
           STYLE: "blog-left"
-          BLOG_URL: "https://acodeandaword.hashnode.dev/"
+          BLOG_URL: "https://blog.pradumnasaraf.dev"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
