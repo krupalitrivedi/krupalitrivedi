@@ -19,6 +19,6 @@ jobs:
           USERNAME: 'krupali' # Hashnode Username
           COUNT: 2 # MAX Visisble
           STYLE: "blog-left"
-          BLOG_URL: "https://blog.pradumnasaraf.dev"
+          BLOG_URL: "https://acodeandaword.com"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
