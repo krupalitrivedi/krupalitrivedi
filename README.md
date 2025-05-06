@@ -2,9 +2,6 @@
 ![Banner for user)](https://user-images.githubusercontent.com/99717469/210266227-c7603ed8-e0be-4f40-b814-425c9abc8744.png)
 
 
-
-## Hi there 👋 I am Krupali
-
 ## Recent Blog Posts:
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
